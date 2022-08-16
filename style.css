@@ -9,3 +9,7 @@ div.container{
     min-width: none;
     
 }
+div.container >.title{
+    width: 800px;
+    min-width: none;
+}
